@@ -2,7 +2,7 @@
 <b>༺════════[👨‍💻]═════════༻</b>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SADIYA-MD+Whatsapp+Bot" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SADIYA-MD+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MR.SADIYA OFC-red.svg?style=for-the-badge&logo=github"></a>
@@ -25,7 +25,7 @@ A very good bot that you can use in whatsapp.
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
 <p align="left">
-<a href="https://github.com/sadiya44/SADIYA-MD/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://github.com/sadiya44/SADIYA-MD/fork"><img align="center" src="https://telegra.ph/file/0a5db285734c3da78ca06.jpg" alt="Fork and deploy" height="35" width="155" /></a>
 
 # 
 
