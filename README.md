@@ -2,10 +2,10 @@
 <b>༺═════════[👸]══════════༻</b>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Queen+Elisa+Whatsapp+Bot" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SADIYA-MD+Whatsapp+Bot" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MR.SADIYA OFC-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/sadiya44?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
