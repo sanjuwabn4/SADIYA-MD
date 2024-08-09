@@ -1,10 +1,10 @@
 <div class = "repo" align = "center">
-
-  <a href = "#">
+ 
+<a href = "#">
 <img src = "repo-data/repo-logo.jpg"  width="300" height="300">
 </img>
-    
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SADIYA-MD+WHATSAPP+BOT" alt="">
+ <p align="center">
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SADIYA-MD+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MR.SADIYA OFC-red.svg?style=for-the-badge&logo=github"></a>
