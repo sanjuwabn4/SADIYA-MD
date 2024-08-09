@@ -1,7 +1,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "repo-data/repo-logo.jpg"  width="300" height="300">
+<img src = "https://telegra.ph/file/3cef367ebfc7a45c10595.jpg"  width="300" height="300">
 </img>
  <p align="center">
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SADIYA-MD+WHATSAPP+BOT" alt="">
