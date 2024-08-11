@@ -3,9 +3,7 @@
 <a href = "#">
 <img src = "https://telegra.ph/file/3cef367ebfc7a45c10595.jpg"  width="300" height="300">
 </img>
- <p align="center">
-<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SADIYA-MD+WHATSAPP+BOT" alt="">
-</p>
+ SADIYA MD WHATSAPP BOT
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MR.SADIYA OFC-red.svg?style=for-the-badge&logo=github"></a>
 </p>
