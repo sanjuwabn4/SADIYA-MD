@@ -67,21 +67,13 @@ require("./plugins/" + plugin);
 }
 });
 console.log('Plugins installed successful ✅')
-console.log('SADIYA-MD connected to whatsapp ✅'
+console.log('SADIYA-MD connected to whatsapp ✅')
 
-let up = `Connected SADIYA-MD Bot`;
-
-conn.sendMessage("94742195461@s.whatsapp.net", caption: up })
-
-}
-
-let up = `SADIYA-MD connected successful ✅\n
-BOT OWNER-94742195461\nPREFIX: ${prefix}`;
+let up = `SADIYA-MD connected successful ✅\nBOT OWNER=94742195461\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
 
 }
-
 })
 conn.ev.on('creds.update', saveCreds)  
 
@@ -172,7 +164,7 @@ mek.type === "stickerMessage"
 command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply})
 }});
 //============================================================================ 
-        
+
 })
 }
 app.get("/", (req, res) => {
