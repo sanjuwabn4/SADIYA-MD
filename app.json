@@ -1,13 +1,13 @@
 {
   "name": "SADIYA-MD",
-  "description": "Javascript WhatsApp bot made by YourName",
+  "description": "Javascript WhatsApp bot made by Sadiya",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "vNwQFRpB#Dj8gOAeVGy1B0w3MXKfJw14SPv1JJWJJeyP_dY7pxhY",
+      "description": "Put the session-id here.",
       "required": true
     },  
 
