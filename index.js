@@ -19,8 +19,6 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
-const ownerNumber = ['94742195461']
-
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
@@ -67,13 +65,25 @@ require("./plugins/" + plugin);
 }
 });
 console.log('Plugins installed successful ✅')
-console.log('SADIYA-MD connected to whatsapp ✅')
+console.log('SADIYA-MD connected to whatsapp ✅'
 
-let up = `SADIYA-MD connected successful ✅\n\nPREFIX: ${prefix}`;
+-----------------------------
+const ownerNumber = ['94742195461']
+-----------------------------
+
+let up = `Connected SADIYA-MD Bot`;
+
+conn.sendMessage("94742195461@s.whatsapp.net", caption: up })
+
+}
+
+let up = `SADIYA-MD connected successful ✅\n
+BOT OWNER-94742195461\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
 
 }
+
 })
 conn.ev.on('creds.update', saveCreds)  
 
@@ -164,7 +174,7 @@ mek.type === "stickerMessage"
 command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply})
 }});
 //============================================================================ 
-
+        
 })
 }
 app.get("/", (req, res) => {
