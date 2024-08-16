@@ -67,10 +67,6 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('SADIYA-MD connected to whatsapp ✅'
 
------------------------------
-const ownerNumber = ['94742195461']
------------------------------
-
 let up = `Connected SADIYA-MD Bot`;
 
 conn.sendMessage("94742195461@s.whatsapp.net", caption: up })
