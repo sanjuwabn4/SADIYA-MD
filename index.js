@@ -73,7 +73,7 @@ let up = `SADIYA-MD connected successful ✅\nBOT OWNER=94742195461\nPREFIX: ${p
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
 }
-let ss = `SADIYA-MD-MENU/n│► .alive/n│► .restart/n│► .menu/n╰───────────●●►`;
+let ss = `SADIYA-MD Connect To Whstapp`;
 
 conn.sendMessage("94742195461@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: ss })
 
