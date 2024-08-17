@@ -29,7 +29,7 @@ let desc = `*✨ SADIYA-MD SONG DOWNLOADER . .🌳*
 
 MADE BY SADIYA-MD
 `
-await conn.sendMessage(from,{image:{url: data.thumbnail}})
+await conn.sendMessage(from,{image:{url: data.thumbnail},capti})
 
     
 }catch(e){
