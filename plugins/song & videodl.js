@@ -29,8 +29,18 @@ let desc = `*✨ SADIYA-MD SONG DOWNLOADER . .🌳*
 
 MADE BY SADIYA-MD
 `
-await conn.sendMessage(from,{image:{url: data.thumbnail},capti})
+await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
+//download audio
+
+let down = await fg.yta(url)  
+let downloadUrl = down.dl_url
+
+//send audio
+await conn.sendMessage(from,{audio:{url: downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
+
+
+    
     
 }catch(e){
 reply(`${e}`)
