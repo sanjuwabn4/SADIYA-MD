@@ -29,7 +29,7 @@ A very good bot that you can use in whatsapp.
 
 # 
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](sadiya)
+* [`𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘`](https://sadiya-md-pair.koyeb.app/)
 #
 +  DEPLOY STEPS
 # 
