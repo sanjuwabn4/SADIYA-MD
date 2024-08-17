@@ -12,7 +12,26 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 if(!q) return reply("please give me url...")
 const search = await yts(q)
-  
+const data = search.video[0]
+const url = data.url
+
+let desc = `*✨ SADIYA-MD SONG DOWNLOADER . .🌳*
+
+♦️ TITLE - ${data.title}
+
+♦️ VIEWS - ${data.views}
+
+♦️ DESCRIPTION - ${data.description}
+
+♦️ TIME - ${data.timestamp}
+
+♦️ AGO - ${data.ago}
+
+MADE BY SADIYA-MD
+`
+await conn.sendMessage(from,{image:{url: data.thumbnail}})
+
+    
 }catch(e){
 reply(`${e}`)
 }
